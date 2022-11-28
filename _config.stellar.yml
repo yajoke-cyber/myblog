@@ -1,0 +1,23 @@
+sidebar:
+  menu:
+    post: "[btn.blog](/)"
+    wiki: "[btn.wiki](/wiki/)"
+    friends: "[好友](/friends/)"
+  widgets:
+    index: [recent, tagcloud]
+    wiki: [toc, ghrepo, ghissues, related] # for pages using 'layout:wiki'
+
+footer:
+  social:
+    github:
+      icon: '<img src="https://yajokepic.oss-cn-chengdu.aliyuncs.com/github.png"/>'
+      url: https://github.com/yajoke-cyber
+    music:
+      icon: '<img src="https://yajokepic.oss-cn-chengdu.aliyuncs.com/music.png"/>'
+      url: https://music.163.com/#/user/home?id=569204737
+    unsplash:
+      icon: '<img src="https://yajokepic.oss-cn-chengdu.aliyuncs.com/bilibili-line.png"/>'
+      url: https://space.bilibili.com/47626233
+    comments:
+      icon: '<img src="https://yajokepic.oss-cn-chengdu.aliyuncs.com/gitee.png"/>'
+      url: https://gitee.com/yajoke1024
